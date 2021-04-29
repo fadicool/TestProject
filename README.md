@@ -3,10 +3,10 @@
 This project is Product management App that renders the list of Product to the end user.
 
 ## Steps to run the Product management App
-1) Copy the URL
-2) clone the Project into a Directory on your local machine 
+1) Copy the clone URL for this project
+2) Go to the directory on your local machine where you want the Project to reside and run the command " git clone copied-URL-in-step-1-above" 
 3) cd to the newly cloned directory and run the command "npm install" - this will download all the relevant dependencies your Project needs in order to run
-4) run the command "npm start" to start your Project
+4) FINALLY, run the command "npm start" to start your Project
 
 
 
