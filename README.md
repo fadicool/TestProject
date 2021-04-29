@@ -2,14 +2,13 @@
 
 This project is Product management App that rendars the list of Product to the end user.
 
-## Available Scripts
+## Steps to run the Product management App
+1) Copy the URL
+2) clone the Project into a Directory on you local machine 
+3) cd to the newly cloned directory and run the commant "npm init" - this will dowlaod all the relevant dependancies your Project needs in order to run
+4) run the command "npm start" to start your Project
 
-In the project directory, you can run:
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
-You will also see any lint errors in the console.
+
