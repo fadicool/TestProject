@@ -8,7 +8,7 @@ This project is Product management App that renders the list of Product to the e
 3) cd to the newly cloned directory and run the command "npm install" - this will download all the relevant dependencies your Project needs in order to run
 4) FINALLY, run the command "npm start" to start your Project
 
-
+* AppOption2 is an altanative to rendaring the Product List
 
 The page will reload if you make edits.\
 
