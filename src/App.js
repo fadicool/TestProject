@@ -1,3 +1,4 @@
+import React from 'react';
 import products from "./products";
 import ReactFlexyTable from "react-flexy-table";
 import "react-flexy-table/dist/index.css";
